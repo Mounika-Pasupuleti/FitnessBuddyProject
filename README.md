@@ -22,13 +22,6 @@ Fitness Buddy is a conversational, AI-powered fitness and wellness assistant des
 
 ---
 
-## 📷 Screenshots
-
-> 👉 **How to use this section**:  
-> Replace `screenshots/home.png`, etc., with the **actual image names and paths** of your screenshots.
-
-### 🏠 Deployment
-![Deployment](image.png)
 
 
 
@@ -88,11 +81,6 @@ Fitness Buddy acts as a 24/7 virtual health coach that:
 
 ---
 
-## 🤝 Contributing
-
-Pull requests and improvements are welcome. Feel free to open an issue or fork this repository to contribute!
-
----
 
 ## 👨‍💻 Developed By
 
